@@ -427,7 +427,7 @@ function App() {
               </a>
 
               <a
-                href="/Vishnu-Palakonda-Resume.pdf"
+                href="/vishnu-portfolio/Vishnu-Palakonda-Resume.pdf"
                 className="btn btn-secondary"
                 target="_blank"
                 rel="noreferrer"
