@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vishnupalakonda.github.io/vishnu-portfolio/sitemap.xml
